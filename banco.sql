@@ -3,6 +3,6 @@ CREATE TABLE produtos (
     Nome varchar(50),
     Categoria varchar(50),
     Marca varchar(150),
-    Preco float,
+    Preco int,
     Host varchar(50)
 );
